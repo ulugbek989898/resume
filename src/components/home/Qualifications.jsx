@@ -6,7 +6,7 @@ import {
   Row,
 } from "react-bootstrap";
 
-const Experience = ({ experiences }) => {
+const Qualifications = ({ experiences }) => {
   return (
     <section className="section">
       <Container>
@@ -27,4 +27,4 @@ const Experience = ({ experiences }) => {
   );
 }
 
-export default Experience;
+export default Qualifications;
