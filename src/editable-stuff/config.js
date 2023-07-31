@@ -51,7 +51,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Ulugbek Isroilov. I graduated Inha University in Tashkent at 2021 with a bachelor degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://42abudhabi-my.sharepoint.com/:w:/r/personal/uisroilo_student_42abudhabi_ae/_layouts/15/Doc.aspx?sourcedoc=%7BD4DE0A52-9FEA-45ED-8DF7-34EF06D3BD91%7D&file=resume1.doc&action=default&mobileredirect=true",
+  resume: "https://42abudhabi-my.sharepoint.com/personal/uisroilo_student_42abudhabi_ae/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fuisroilo%5Fstudent%5F42abudhabi%5Fae%2FDocuments%2FMinimal%5FCV%5FTemplate%2Epdf&parentview=1",
 };
 
 // PROJECTS SECTION
